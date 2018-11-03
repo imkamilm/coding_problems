@@ -34,5 +34,6 @@ def new_array_2(A):
 
 
 a = [1,2,3,4,5]
-print(new_array(a))
-print(new_array(a))
+print(new_array(a)) # WORKS!
+print(new_array_2(a)) # WORKS!
+
